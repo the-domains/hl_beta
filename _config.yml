@@ -1,7 +1,7 @@
 name: HL_Beta
 favicon: null
-layout_spectrum: 0.1592951260972768
-typography_spectrum: 0.15855711186304688
+layout_spectrum: 0.74206
+typography_spectrum: 0.99286
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.7738468423485756
-  lightness: 0.2747636642307043
-  saturation: 0.9509990494698286
-  rhythmicContrast: 0.40310292528010905
+  brandStrength: 0.75
+  lightness: 0.25
+  saturation: 0.9375
+  rhythmicContrast: 0.5
 purpose: []
